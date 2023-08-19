@@ -105,3 +105,6 @@ a{
 .text-justify{
   text-align: justify;
 }
+li{
+  margin-bottom: 8px;
+}
