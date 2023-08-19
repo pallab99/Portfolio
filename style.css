@@ -102,3 +102,6 @@ a{
 .project-name{
   font-size: 18px;
 }
+.text-justify{
+  text-align: justify;
+}
